@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="44cc0aba-3fd8-46cd-ab4f-e54d1832db5f" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1703250845">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.37" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="9" />
+          <entry key="py" value="4991" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="9" />
+          <entry key="Python" value="4991" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1525">
+              <caret line="61" column="48" selection-start-line="61" selection-start-column="48" selection-end-line="61" selection-end-column="48" />
+              <folding>
+                <marker date="1536994915851" expanded="true" signature="214:216" ph="..." />
+                <marker date="1536994915851" expanded="true" signature="516:518" ph="..." />
+                <marker date="1536994915851" expanded="true" signature="915:973" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tests/system/app_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+              <folding>
+                <element signature="e#0#29#0" expanded="true" />
+                <marker date="1536996073058" expanded="true" signature="162:231" ph="..." />
+                <marker date="1536996073058" expanded="true" signature="269:467" ph="..." />
+                <marker date="1536996073058" expanded="true" signature="935:938" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>side_effect</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/post.py" />
+        <option value="$PROJECT_DIR$/tests/unit/post_test.py" />
+        <option value="$PROJECT_DIR$/tests/integration/test_blog.py" />
+        <option value="$PROJECT_DIR$/tests/unit/blog_test.py" />
+        <option value="$PROJECT_DIR$/blog.py" />
+        <option value="$PROJECT_DIR$/tests/integration/blog_test.py" />
+        <option value="$PROJECT_DIR$/app.py" />
+        <option value="$PROJECT_DIR$/tests/system/app_test.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="85" />
+    <option name="y" value="25" />
+    <option name="width" value="1750" />
+    <option name="height" value="1030" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PythonAutomatedTestingCourse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonAutomatedTestingCourse" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonAutomatedTestingCourse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonAutomatedTestingCourse" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonAutomatedTestingCourse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonAutomatedTestingCourse" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="integration" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonAutomatedTestingCourse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonAutomatedTestingCourse" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="system" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonAutomatedTestingCourse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonAutomatedTestingCourse" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="unit" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.tests">
+    <configuration name="Unittests for app_test.AppTest.test_ask_create_blog" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="PythonAutomatedTestingCourse" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/system" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;app_test.AppTest.test_ask_create_blog&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for app_test.AppTest.test_ask_create_post" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="PythonAutomatedTestingCourse" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/system" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;app_test.AppTest.test_ask_create_post&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for app_test.AppTest.test_ask_read_blog" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="PythonAutomatedTestingCourse" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/system" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;app_test.AppTest.test_ask_read_blog&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for app_test.AppTest.test_menu_calls_create_blog" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="PythonAutomatedTestingCourse" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/system" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;app_test.AppTest.test_menu_calls_create_blog&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in tests" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="PythonAutomatedTestingCourse" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_pattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tests" type="tests" factoryName="Unittests" temporary="true">
+      <module name="PythonAutomatedTestingCourse" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_pattern" value="&quot;*_test.py&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.Unittests in tests" />
+      <item itemvalue="Python tests.tests" />
+      <item itemvalue="Python tests.Unittests for app_test.AppTest.test_ask_create_blog" />
+      <item itemvalue="Python tests.Unittests for app_test.AppTest.test_ask_read_blog" />
+      <item itemvalue="Python tests.Unittests for app_test.AppTest.test_ask_create_post" />
+      <item itemvalue="Python tests.Unittests for app_test.AppTest.test_menu_calls_create_blog" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.tests" />
+        <item itemvalue="Python tests.Unittests for app_test.AppTest.test_menu_calls_create_blog" />
+        <item itemvalue="Python tests.Unittests for app_test.AppTest.test_ask_create_post" />
+        <item itemvalue="Python tests.Unittests for app_test.AppTest.test_ask_read_blog" />
+        <item itemvalue="Python tests.Unittests for app_test.AppTest.test_ask_create_blog" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="44cc0aba-3fd8-46cd-ab4f-e54d1832db5f" name="Default Changelist" comment="" />
+      <created>1536490682804</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536490682804</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="tests - 2018.09.10 at 10h 53m 45s.xml">
+      <configuration name="tests" configurationId="tests" />
+    </history-entry>
+    <history-entry file="tests - 2018.09.10 at 10h 54m 14s.xml">
+      <configuration name="tests" configurationId="tests" />
+    </history-entry>
+    <history-entry file="tests - 2018.09.10 at 10h 55m 10s.xml">
+      <configuration name="tests" configurationId="tests" />
+    </history-entry>
+    <history-entry file="tests - 2018.09.10 at 10h 55m 26s.xml">
+      <configuration name="tests" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_app_test_AppTest_test_ask_create_post - 2018.09.15 at 15h 09m 06s.xml">
+      <configuration name="Unittests for app_test.AppTest.test_ask_create_post" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_app_test_AppTest_test_ask_create_post - 2018.09.15 at 15h 10m 17s.xml">
+      <configuration name="Unittests for app_test.AppTest.test_ask_create_post" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_app_test_AppTest_test_ask_create_post - 2018.09.15 at 15h 11m 31s.xml">
+      <configuration name="Unittests for app_test.AppTest.test_ask_create_post" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_app_test_AppTest_test_ask_create_post - 2018.09.15 at 15h 12m 50s.xml">
+      <configuration name="Unittests for app_test.AppTest.test_ask_create_post" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_app_test_AppTest_test_menu_calls_create_blog - 2018.09.15 at 15h 16m 41s.xml">
+      <configuration name="Unittests for app_test.AppTest.test_menu_calls_create_blog" configurationId="tests" />
+    </history-entry>
+    <history-entry file="tests - 2018.09.15 at 15h 16m 56s.xml">
+      <configuration name="tests" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14474554" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32885906" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/tests/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/post.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/-2012251860/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="794" column="8" selection-start-line="794" selection-start-column="8" selection-end-line="794" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/unit/blog_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="26" column="67" selection-start-line="26" selection-start-column="67" selection-end-line="26" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/unit/post_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="48" selection-start-line="15" selection-start-column="48" selection-end-line="15" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="22" column="58" lean-forward="true" selection-start-line="22" selection-start-column="58" selection-end-line="22" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/integration/blog_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="13" column="33" lean-forward="true" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1525">
+          <caret line="61" column="48" selection-start-line="61" selection-start-column="48" selection-end-line="61" selection-end-column="48" />
+          <folding>
+            <marker date="1536994915851" expanded="true" signature="214:216" ph="..." />
+            <marker date="1536994915851" expanded="true" signature="516:518" ph="..." />
+            <marker date="1536994915851" expanded="true" signature="915:973" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/system/app_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+            <marker date="1536996073058" expanded="true" signature="162:231" ph="..." />
+            <marker date="1536996073058" expanded="true" signature="269:467" ph="..." />
+            <marker date="1536996073058" expanded="true" signature="935:938" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
