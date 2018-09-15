@@ -13,3 +13,9 @@ ENV/
 env.bak/
 
 venv.bak/
+
+# Others
+.DS_Store
+.idea/
+_pycache_/
+*.db
